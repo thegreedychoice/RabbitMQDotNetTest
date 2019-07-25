@@ -1,0 +1,11 @@
+C:\Users\shubhamsh\Desktop\PlayGround\DotNet\ProducerConsumerRabbitMQ\Producer\bin\Debug\netcoreapp2.1\Producer.deps.json
+C:\Users\shubhamsh\Desktop\PlayGround\DotNet\ProducerConsumerRabbitMQ\Producer\bin\Debug\netcoreapp2.1\Producer.runtimeconfig.json
+C:\Users\shubhamsh\Desktop\PlayGround\DotNet\ProducerConsumerRabbitMQ\Producer\bin\Debug\netcoreapp2.1\Producer.runtimeconfig.dev.json
+C:\Users\shubhamsh\Desktop\PlayGround\DotNet\ProducerConsumerRabbitMQ\Producer\bin\Debug\netcoreapp2.1\Producer.dll
+C:\Users\shubhamsh\Desktop\PlayGround\DotNet\ProducerConsumerRabbitMQ\Producer\bin\Debug\netcoreapp2.1\Producer.pdb
+C:\Users\shubhamsh\Desktop\PlayGround\DotNet\ProducerConsumerRabbitMQ\Producer\obj\Debug\netcoreapp2.1\Producer.csprojAssemblyReference.cache
+C:\Users\shubhamsh\Desktop\PlayGround\DotNet\ProducerConsumerRabbitMQ\Producer\obj\Debug\netcoreapp2.1\Producer.csproj.CoreCompileInputs.cache
+C:\Users\shubhamsh\Desktop\PlayGround\DotNet\ProducerConsumerRabbitMQ\Producer\obj\Debug\netcoreapp2.1\Producer.AssemblyInfoInputs.cache
+C:\Users\shubhamsh\Desktop\PlayGround\DotNet\ProducerConsumerRabbitMQ\Producer\obj\Debug\netcoreapp2.1\Producer.AssemblyInfo.cs
+C:\Users\shubhamsh\Desktop\PlayGround\DotNet\ProducerConsumerRabbitMQ\Producer\obj\Debug\netcoreapp2.1\Producer.dll
+C:\Users\shubhamsh\Desktop\PlayGround\DotNet\ProducerConsumerRabbitMQ\Producer\obj\Debug\netcoreapp2.1\Producer.pdb
